@@ -1,0 +1,10 @@
+{
+  "name": "Leetcode_Collection",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:SaurabhKhade/Leetcode-Questions.git",
+  "author": "Saurabh Khade <khadesaurabh056@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
