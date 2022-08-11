@@ -19,6 +19,8 @@
 - [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 - [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
+- [2042. Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/)
+- [2124. Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/)
 
 ## Medium
 
@@ -27,6 +29,7 @@
 - [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 - [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+- [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 - [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 - [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
