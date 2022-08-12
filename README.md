@@ -1,6 +1,4 @@
-<a href="https://leetcode.com/KhadeSaurabh/">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=KhadeSaurabh&theme=dark" width="500px"/>
-</a>
+![LeetCode Stats](https://leetcode.card.workers.dev/khadesaurabh?theme=dark&font=source_code_pro&extension=activity&width=800&height=400)
 
 # LeetCode Solved Problems
 
