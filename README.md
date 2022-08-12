@@ -1,3 +1,7 @@
+<a href="https://leetcode.com/KhadeSaurabh/">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=KhadeSaurabh&theme=dark" width="500px"/>
+</a>
+
 # LeetCode Solved Problems
 
 ## Easy
@@ -51,7 +55,9 @@
 - [322. Coin Change](https://leetcode.com/problems/coin-change/)
 - [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
 - [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+- [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
 - [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/)
+- [807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)
 - [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)
 - [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)
 - [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
@@ -60,7 +66,9 @@
 - [1476. Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)
 - [1641. Count Sorted Vowel Subsequences](https://leetcode.com/problems/count-sorted-vowel-subsequences/)
 - [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)
+- [1828. Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)
 - [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
+- [2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)
 
 ## Hard
 
