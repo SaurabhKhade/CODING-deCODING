@@ -12,6 +12,7 @@
 - [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 - [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+- [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [338. Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
