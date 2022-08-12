@@ -11,6 +11,7 @@
 - [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 - [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+- [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 - [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 - [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
@@ -55,7 +56,10 @@
 - [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)
 - [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
 - [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
+- [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
+- [1476. Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)
 - [1641. Count Sorted Vowel Subsequences](https://leetcode.com/problems/count-sorted-vowel-subsequences/)
+- [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)
 - [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
 
 ## Hard
