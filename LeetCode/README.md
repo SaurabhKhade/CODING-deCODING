@@ -70,6 +70,7 @@
 
 ## Hard
 
+- [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
 - [51. N-Queens](https://leetcode.com/problems/n-queens/)
 - [458. Poor Pigs](https://leetcode.com/problems/poor-pigs/)
 - [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)
