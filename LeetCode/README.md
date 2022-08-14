@@ -61,6 +61,7 @@
 - [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)
 - [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
 - [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
+- [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
 - [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
 - [1476. Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)
 - [1641. Count Sorted Vowel Subsequences](https://leetcode.com/problems/count-sorted-vowel-subsequences/)
