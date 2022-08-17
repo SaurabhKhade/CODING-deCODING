@@ -22,6 +22,7 @@
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
+- [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 - [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 - [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
