@@ -22,13 +22,16 @@
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
+- [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)
 - [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 - [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+- [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
 - [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
 - [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 - [2042. Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/)
 - [2124. Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/)
+- [2154. Keep Multiplying Found Values by Two Until You Reach a Limit](https://leetcode.com/problems/keep-multiplying-found-values-by-two-until-you-reach-a-limit/)
 - [2373. Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)
 
 ## Medium
