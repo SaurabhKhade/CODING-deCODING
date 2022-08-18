@@ -16,6 +16,7 @@
 
 - [Best Time to Buy and Sell Stock](https://www.codingninjas.com/codestudio/problems/stocks-are-profitable_893405?topList=striver-sde-sheet-problems)
 - [Count Inversions](https://www.codingninjas.com/codestudio/problems/count-inversions_615?topList=striver-sde-sheet-problems)
+- [Longest Consecutive Sequence](https://www.codingninjas.com/codestudio/problems/longest-consecutive-sequence_759408?topList=striver-sde-sheet-problems)
 - [Merge Intervals](https://www.codingninjas.com/codestudio/problems/merge-intervals_699917?topList=striver-sde-sheet-problems)
 - [Merge Two Sorted Arrays](https://www.codingninjas.com/codestudio/problems/ninja-and-sorted-arrays_1214628?topList=striver-sde-sheet-problems)
 - [Missing and repeating numbers](https://www.codingninjas.com/codestudio/problems/missing-and-repeating-numbers_873366?topList=striver-sde-sheet-problems)
