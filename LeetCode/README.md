@@ -77,6 +77,7 @@
 - [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
 - [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)
 - [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
+- [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
 - [1476. Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)
 - [1641. Count Sorted Vowel Subsequences](https://leetcode.com/problems/count-sorted-vowel-subsequences/)
 - [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)
