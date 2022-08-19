@@ -3,6 +3,7 @@
 ## Easy
 
 - [Find Duplicate in Array](https://www.codingninjas.com/codestudio/problems/find-duplicate-in-array_1112602?topList=striver-sde-sheet-problems)
+- [Longest Subarray Zero Sum](https://www.codingninjas.com/codestudio/problems/longest-subset-zero-sum_920321?topList=striver-sde-sheet-problems)
 - [Majority element](https://www.codingninjas.com/codestudio/problems/majority-element_842495?topList=striver-sde-sheet-problems)
 - [Majority Element - II](https://www.codingninjas.com/codestudio/problems/majority-element-ii_893027?topList=striver-sde-sheet-problems)
 - [Modular Exponentiation](https://www.codingninjas.com/codestudio/problems/modular-exponentiation_1082146?topList=striver-sde-sheet-problems)
