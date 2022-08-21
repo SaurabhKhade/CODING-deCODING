@@ -33,6 +33,7 @@
 - [2124. Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/)
 - [2154. Keep Multiplying Found Values by Two Until You Reach a Limit](https://leetcode.com/problems/keep-multiplying-found-values-by-two-until-you-reach-a-limit/)
 - [2373. Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)
+- [2383. Minimum Hours of Training to Win a Competition](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/)
 
 ## Medium
 
