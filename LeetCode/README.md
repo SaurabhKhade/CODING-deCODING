@@ -19,6 +19,7 @@
 - [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [338. Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [342. Power of Four](https://leetcode.com/problems/power-of-four/)
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
