@@ -77,6 +77,7 @@
 - [322. Coin Change](https://leetcode.com/problems/coin-change/)
 - [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
 - [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+- [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
 - [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
 - [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/)
 - [807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)
