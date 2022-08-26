@@ -83,6 +83,7 @@
 - [807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)
 - [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)
 - [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)
+- [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)
 - [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
 - [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
 - [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
