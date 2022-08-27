@@ -17,11 +17,14 @@
 
 - [Best Time to Buy and Sell Stock](https://www.codingninjas.com/codestudio/problems/stocks-are-profitable_893405?topList=striver-sde-sheet-problems)
 - [Count Inversions](https://www.codingninjas.com/codestudio/problems/count-inversions_615?topList=striver-sde-sheet-problems)
+- [Count Subarrays with Given XOR](https://www.codingninjas.com/codestudio/problems/count-subarrays-with-given-xor_1115652?topList=striver-sde-sheet-problems)
+- [Find Four Elements That Sums To A Given Value](https://www.codingninjas.com/codestudio/problems/find-four-elements-that-sums-to-a-given-value_983605?topList=striver-sde-sheet-problems)
 - [Longest Consecutive Sequence](https://www.codingninjas.com/codestudio/problems/longest-consecutive-sequence_759408?topList=striver-sde-sheet-problems)
 - [Merge Intervals](https://www.codingninjas.com/codestudio/problems/merge-intervals_699917?topList=striver-sde-sheet-problems)
 - [Merge Two Sorted Arrays](https://www.codingninjas.com/codestudio/problems/ninja-and-sorted-arrays_1214628?topList=striver-sde-sheet-problems)
 - [Missing and repeating numbers](https://www.codingninjas.com/codestudio/problems/missing-and-repeating-numbers_873366?topList=striver-sde-sheet-problems)
 - [Next Permutation](https://www.codingninjas.com/codestudio/problems/next-permutaion_893046?topList=striver-sde-sheet-problems)
+- [Reverse Linked List](https://www.codingninjas.com/codestudio/problems/reverse-the-singly-linked-list_799897?topList=striver-sde-sheet-problems)
 - [Unique Paths](https://www.codingninjas.com/codestudio/problems/total-unique-paths_1081470?topList=striver-sde-sheet-problems)
 
 ## Hard
