@@ -90,6 +90,7 @@
 - [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)
 - [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
 - [1315. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)
+- [1329. Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)
 - [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)
 - [1476. Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)
 - [1641. Count Sorted Vowel Subsequences](https://leetcode.com/problems/count-sorted-vowel-subsequences/)
