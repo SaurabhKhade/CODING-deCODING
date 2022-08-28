@@ -12,6 +12,6 @@ public:
             }
             if(uniques.size() > longest) longest = uniques.size();
         }
-        return longest;
+        return longest; 
     }
 };
