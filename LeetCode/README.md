@@ -69,6 +69,7 @@
 - [155. Min Stack](https://leetcode.com/problems/min-stack/)
 - [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+- [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [211. Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
 - [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
