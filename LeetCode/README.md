@@ -44,7 +44,7 @@
 - [2367. Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/)
 - [2373. Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)
 - [2383. Minimum Hours of Training to Win a Competition](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/)
-
+ 
 ## Medium
 
 - [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
