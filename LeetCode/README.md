@@ -26,6 +26,7 @@
 - [342. Power of Four](https://leetcode.com/problems/power-of-four/)
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note/)
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+- [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 - [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)
