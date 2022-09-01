@@ -41,6 +41,7 @@
 - [2124. Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/)
 - [2154. Keep Multiplying Found Values by Two Until You Reach a Limit](https://leetcode.com/problems/keep-multiplying-found-values-by-two-until-you-reach-a-limit/)
 - [2309. Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/)
+- [2367. Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/)
 - [2373. Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)
 - [2383. Minimum Hours of Training to Win a Competition](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/)
 
@@ -54,6 +55,7 @@
 - [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 - [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+- [15. 3Sum](https://leetcode.com/problems/3sum/)
 - [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 - [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
