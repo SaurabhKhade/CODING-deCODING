@@ -28,6 +28,7 @@
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+- [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 - [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 - [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)
 - [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
@@ -44,7 +45,7 @@
 - [2367. Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/)
 - [2373. Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)
 - [2383. Minimum Hours of Training to Win a Competition](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/)
- 
+
 ## Medium
 
 - [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
