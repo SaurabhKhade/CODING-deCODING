@@ -121,4 +121,5 @@
 - [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)
 - [458. Poor Pigs](https://leetcode.com/problems/poor-pigs/)
 - [871. Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
+- [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
 - [1220. Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)
