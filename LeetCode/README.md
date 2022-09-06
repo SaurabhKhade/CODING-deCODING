@@ -93,6 +93,7 @@
 - [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
 - [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/)
 - [807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)
+- [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)
 - [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)
 - [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)
 - [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)
