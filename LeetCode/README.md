@@ -6,6 +6,7 @@
 
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+- [94. Binary Tree Inorder Traversal.cpp](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 - [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 - [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
