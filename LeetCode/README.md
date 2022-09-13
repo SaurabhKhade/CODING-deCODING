@@ -89,6 +89,7 @@
 - [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
 - [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 - [384. Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
+- [393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)
 - [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
 - [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
