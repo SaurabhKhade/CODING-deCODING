@@ -119,6 +119,7 @@
 - [1828. Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)
 - [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
 - [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
+- [2007. Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/)
 - [2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)
 - [2265. Count Nodes Equal to Average of Subtrees](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtrees/)
 - [2374. Node With Highest Edge Score](https://leetcode.com/problems/node-with-highest-edge-score/)
