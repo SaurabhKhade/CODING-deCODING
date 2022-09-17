@@ -39,6 +39,7 @@
 - [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 - [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 - [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
+- [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
 - [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
 - [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
