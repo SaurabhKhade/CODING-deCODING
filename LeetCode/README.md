@@ -129,6 +129,7 @@
 - [2265. Count Nodes Equal to Average of Subtrees](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtrees/)
 - [2374. Node With Highest Edge Score](https://leetcode.com/problems/node-with-highest-edge-score/)
 - [2375. Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/)
+- [2396. Strictly Palindromic Numbers](https://leetcode.com/problems/strictly-palindromic-numbers/)
 
 ## Hard
 
