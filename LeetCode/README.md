@@ -105,6 +105,7 @@
 - [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
 - [916. Word Subsets](https://leetcode.com/problems/word-subsets/)
 - [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
+- [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
 - [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
 - [1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)
 - [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
