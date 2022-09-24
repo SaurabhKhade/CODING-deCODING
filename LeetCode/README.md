@@ -22,6 +22,7 @@
 - [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
 - [326. Power of Three](https://leetcode.com/problems/power-of-three/)
 - [338. Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [342. Power of Four](https://leetcode.com/problems/power-of-four/)
