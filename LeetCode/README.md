@@ -96,6 +96,7 @@
 - [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)
 - [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 - [155. Min Stack](https://leetcode.com/problems/min-stack/)
+- [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
