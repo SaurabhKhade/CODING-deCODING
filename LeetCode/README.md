@@ -125,6 +125,7 @@
 - [823. Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)
 - [838. Push Dominoes](https://leetcode.com/problems/push-dominoes/)
 - [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
+- [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - [858. Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)
 - [869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)
 - [890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
