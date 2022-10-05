@@ -114,6 +114,7 @@
 - [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
 - [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
 - [609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)
+- [623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)
 - [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
 - [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/)
 - [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
