@@ -157,6 +157,7 @@
 - [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
 - [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)
 - [2007. Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/)
+- [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 - [2181. Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)
 - [2265. Count Nodes Equal to Average of Subtrees](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtrees/)
 - [2374. Node With Highest Edge Score](https://leetcode.com/problems/node-with-highest-edge-score/)
