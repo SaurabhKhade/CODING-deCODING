@@ -52,6 +52,7 @@
 - [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)
 - [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 - [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
+- [821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 - [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
