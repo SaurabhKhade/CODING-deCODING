@@ -20,6 +20,7 @@
 - [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [231. Power of Two](https://leetcode.com/problems/power-of-two/)
 - [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
