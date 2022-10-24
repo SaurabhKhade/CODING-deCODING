@@ -104,6 +104,7 @@
 - [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [50. Pow(x, n)](https://leetcode.com/problems/powx-n/)
 - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [56. Merge Intervals.cpp](https://leetcode.com/problems/merge-intervals/)
 - [62. Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 - [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
