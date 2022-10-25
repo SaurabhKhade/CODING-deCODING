@@ -1,5 +1,8 @@
 print("Its Precommit")
 
+with open("./re.py", "w") as f:
+    f.write("Its Precommit")
+
 # from genericpath import isdir
 # import os
 
