@@ -7,3 +7,10 @@ repos:
         language: system
         types: [python]
         always_run: true
+  - repo: local
+    hooks:
+      - id: stage_all_updates
+        name: StageAllUpdates
+        entry: git add .
+        language: system
+        always_run: true

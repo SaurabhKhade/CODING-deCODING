@@ -22,5 +22,5 @@ for dir in os.listdir("./"):
                 file += f"- [{file_name}]({link})\n"
             file += "\n"
 
-        with open(f"./{dir}/README22.md", "w") as f:
+        with open(f"./{dir}/README.md", "w") as f:
             f.write(file)
