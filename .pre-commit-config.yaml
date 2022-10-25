@@ -6,6 +6,7 @@ repos:
         entry: python GENERATE_README.py
         language: system
         types: [python]
+        always_run: true
   - repo: local
     hooks:
       - id: stage_all_updates
