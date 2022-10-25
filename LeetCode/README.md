@@ -61,6 +61,7 @@
 - [1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.cpp/)
 - [1464. Maximum Product of Two Elements in an Array](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.cpp/)
 - [1480. Running Sum of 1d Array](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/1480.%20Running%20Sum%20of%201d%20Array.cpp/)
+- [1662. Check If Two String Arrays are Equivalent](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.cpp/)
 - [1710. Maximum Units on a Truck](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/1710.%20Maximum%20Units%20on%20a%20Truck.cpp/)
 - [1791. Find Center of Star Graph](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/1791.%20Find%20Center%20of%20Star%20Graph.cpp/)
 - [1929. Concatenation of Array](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/1929.%20Concatenation%20of%20Array.cpp/)
