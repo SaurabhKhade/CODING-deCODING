@@ -5,5 +5,11 @@
 ## For easier navigation and code searching, visit my [website](https://coding-decoding.vercel.app/)
 
 ### [&bull; Leetcode Problems](https://github.com/SaurabhKhade/CODING-deCODING/tree/master/LeetCode)
+- **Easy : 73**
+- **Medium : 105**
+- **Hard : 9**
 
 ### [&bull; Strivers SDE Sheet Problems](https://github.com/SaurabhKhade/CODING-deCODING/tree/master/Strivers%20SDE%20Sheet%20Problems)
+- **Easy : 14**
+- **Medium : 15**
+- **Hard : 1**
