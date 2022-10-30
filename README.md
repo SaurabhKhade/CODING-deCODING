@@ -5,7 +5,7 @@
 ## For easier navigation and code searching, visit my [website](https://coding-decoding.vercel.app/)
 
 ### [&bull; Leetcode Problems](https://github.com/SaurabhKhade/CODING-deCODING/tree/master/LeetCode)
-- **Easy : 73**
+- **Easy : 74**
 - **Medium : 105**
 - **Hard : 9**
 

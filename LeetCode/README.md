@@ -77,6 +77,7 @@
 - [2367. Number of Arithmetic Triplets.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/2367.%20Number%20of%20Arithmetic%20Triplets.cpp/)
 - [2373. Largest Local Values in a Matrix.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/2373.%20Largest%20Local%20Values%20in%20a%20Matrix.cpp/)
 - [2383. Minimum Hours of Training to Win a Competition.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/2383.%20Minimum%20Hours%20of%20Training%20to%20Win%20a%20Competition.cpp/)
+- [2451. Odd String Difference.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/2451.%20Odd%20String%20Difference.cpp/)
 
 ## Medium
 
