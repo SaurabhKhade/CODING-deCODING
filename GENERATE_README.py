@@ -63,7 +63,7 @@ main_template = f"""<h1 align="center"> CODING deCODING </h1>
 - **Medium : {counter['LeetCode']['Medium']}**
 - **Hard : {counter['LeetCode']['Hard']}**
 
-### [&bull; CodingNinjas](https://github.com/SaurabhKhade/CODING-deCODING/tree/master/Strivers%20SDE%20Sheet%20Problems)
+### [&bull; CodingNinjas](https://github.com/SaurabhKhade/CODING-deCODING/tree/master/CodingNinjas)
 - **Easy : {counter['CodingNinjas']['Easy']}**
 - **Medium : {counter['CodingNinjas']['Medium']}**
 - **Hard : {counter['CodingNinjas']['Hard']}**

@@ -13,7 +13,7 @@
 - **Medium : 105**
 - **Hard : 9**
 
-### [&bull; CodingNinjas](https://github.com/SaurabhKhade/CODING-deCODING/tree/master/Strivers%20SDE%20Sheet%20Problems)
+### [&bull; CodingNinjas](https://github.com/SaurabhKhade/CODING-deCODING/tree/master/CodingNinjas)
 - **Easy : 16**
 - **Medium : 18**
 - **Hard : 1**
