@@ -7,10 +7,3 @@ repos:
         language: system
         types: [python]
         always_run: true
-  - repo: local
-    hooks:
-      - id: stage_changes
-        name: StageChanges
-        entry: git add .
-        language: system
-        types: [bash]

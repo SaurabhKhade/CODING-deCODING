@@ -15,6 +15,7 @@
 - [Search In A 2D Matrix.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Easy/Search%20In%20A%202D%20Matrix.cpp/)
 - [Set Matrix Zeros.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Easy/Set%20Matrix%20Zeros.cpp/)
 - [Sort 0 1 2.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Easy/Sort%200%201%202.cpp/)
+- [Subset Sum.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Easy/Subset%20Sum.cpp/)
 
 ## Medium
 

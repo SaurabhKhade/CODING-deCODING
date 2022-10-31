@@ -1,18 +1,11 @@
 class Solution {
 public:
     bool isToeplitzMatrix(vector<vector<int>>& mat) {
-        for(int i=0; i<mat[0].size(); i++) {
-            int j=0, k = i;
-            while(k<mat[0].size() && j<mat.size()) {
-                if(mat[j][k] != mat[0][i]) return false;
-                j++,k++;
-            }
-        }
-        for(int i=1; i<mat.size(); i++) {
-            int j=i, k = 0;
-            while(k<mat[0].size() && j<mat.size()) {
-                if(mat[j][k] != mat[i][0]) return false;
-                j++,k++;
+        for(int i=0; i<mat.size(); i++) {
+            for(int j=0; j<mat[0].size(); j++) {
+                if(i-1>=0 && j-1>=0 && mat[i-1][j-1]!=mat[i][j]) {
+                    return false;
+                }
             }
         }
         return true;
