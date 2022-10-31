@@ -50,6 +50,7 @@
 - [724. Find Pivot Index.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/724.%20Find%20Pivot%20Index.cpp/)
 - [733. Flood Fill.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/733.%20Flood%20Fill.cpp/)
 - [747. Largest Number At Least Twice of Others.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.cpp/)
+- [766. Toeplitz Matrix.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/766.%20Toeplitz%20Matrix.cpp/)
 - [771. Jewels and Stones.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/771.%20Jewels%20and%20Stones.cpp/)
 - [804. Unique Morse Code Words.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/804.%20Unique%20Morse%20Code%20Words.cpp/)
 - [821. Shortest Distance to a Character.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/821.%20Shortest%20Distance%20to%20a%20Character.cpp/)
