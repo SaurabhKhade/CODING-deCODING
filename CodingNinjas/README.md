@@ -32,8 +32,10 @@
 - [Merge Two Sorted Linked Lists.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Medium/Merge%20Two%20Sorted%20Linked%20Lists.cpp/)
 - [Missing and repeating numbers.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Medium/Missing%20and%20repeating%20numbers.cpp/)
 - [Next Permutation.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Medium/Next%20Permutation.cpp/)
+- [Return Subsets Sum to K.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Medium/Return%20Subsets%20Sum%20to%20K.cpp/)
 - [Reverse Linked List.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Medium/Reverse%20Linked%20List.cpp/)
 - [Rotate Linked List.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Medium/Rotate%20Linked%20List.cpp/)
+- [Subsets II.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Medium/Subsets%20II.cpp/)
 - [Unique Paths.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Medium/Unique%20Paths.cpp/)
 
 ## Hard
