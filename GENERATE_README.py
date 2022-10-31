@@ -16,7 +16,13 @@ counter = {
         "Easy": 0,
         "Medium": 0,
         "Hard": 0
-    }
+    },
+    "total": {
+        "Easy": 0,
+        "Medium": 0,
+        "Hard": 0
+    },
+    "totalSolved": 0
 }
 
 for dir in os.listdir("./"):
@@ -36,6 +42,8 @@ for dir in os.listdir("./"):
             file += "\n"
 
             counter[dir][diff] = len(code_files)
+            counter["total"][diff] += len(code_files)
+            counter["totalSolved"] += len(code_files)
 
         with open(f"./{dir}/README.md", "w") as f:
             f.write(file)
@@ -46,7 +54,11 @@ main_template = f"""<h1 align="center"> CODING deCODING </h1>
 
 ## For easier navigation and code searching, visit my [website](https://coding-decoding.vercel.app/)
 
-### [&bull; Leetcode Problems](https://github.com/SaurabhKhade/CODING-deCODING/tree/master/LeetCode)
+<div style='display:flex;justify-content:center;'>
+    <img src='https://quickchart.io/chart?c={{type:%27doughnut%27,data:{{labels:[%27Easy%27,%27Medium%27,%27Hard%27],datasets:[{{data:[{counter['total']['Easy']},{counter['total']['Medium']},{counter['total']['Hard']}]}}]}},options:{{plugins:{{doughnutlabel:{{labels:[{{text:%27{counter['totalSolved']}%27,font:{{size:20}}}},{{text:%27total%27}}]}}}}}}}}' width='400'/>
+</div>
+
+### [&bull; Leetcode](https://github.com/SaurabhKhade/CODING-deCODING/tree/master/LeetCode)
 - **Easy : {counter['LeetCode']['Easy']}**
 - **Medium : {counter['LeetCode']['Medium']}**
 - **Hard : {counter['LeetCode']['Hard']}**
