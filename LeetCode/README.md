@@ -182,6 +182,7 @@
 - [1578. Minimum Time to Make Rope Colorful.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful.cpp/)
 - [1641. Count Sorted Vowel Strings.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/1641.%20Count%20Sorted%20Vowel%20Strings.cpp/)
 - [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.cpp/)
+- [1706. Where Will the Ball Fall.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/1706.%20Where%20Will%20the%20Ball%20Fall.cpp/)
 - [1769. Minimum Number of Operations to Move All Balls to Each Box.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/1769.%20Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box.cpp/)
 - [1828. Queries on Number of Points Inside a Circle.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/1828.%20Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle.cpp/)
 - [1877. Minimize Maximum Pair Sum in Array.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/1877.%20Minimize%20Maximum%20Pair%20Sum%20in%20Array.cpp/)
