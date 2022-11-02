@@ -3,7 +3,8 @@ import os
 
 starters = {
     "LeetCode": "![LeetCode Stats](https://leetcode.card.workers.dev/khadesaurabh?theme=dark&font=source_code_pro&extension=activity&width=400&height=400)\n\n# LeetCode Solved Problems\n\n",
-    "CodingNinjas": """"""
+    "CodingNinjas": """""",
+    "GeeksForGeeks": """"""
 }
 
 counter = {
@@ -13,6 +14,11 @@ counter = {
         "Hard": 0
     },
     "CodingNinjas": {
+        "Easy": 0,
+        "Medium": 0,
+        "Hard": 0
+    },
+    "GeeksForGeeks": {
         "Easy": 0,
         "Medium": 0,
         "Hard": 0
@@ -67,6 +73,11 @@ main_template = f"""<h1 align="center"> CODING deCODING </h1>
 - **Easy : {counter['CodingNinjas']['Easy']}**
 - **Medium : {counter['CodingNinjas']['Medium']}**
 - **Hard : {counter['CodingNinjas']['Hard']}**
+
+### [&bull; GeeksForGeeks](https://github.com/SaurabhKhade/CODING-deCODING/tree/master/GeeksForGeeks)
+- **Easy : {counter['GeeksForGeeks']['Easy']}**
+- **Medium : {counter['GeeksForGeeks']['Medium']}**
+- **Hard : {counter['GeeksForGeeks']['Hard']}**
 """
 
 with open(f"./README.md", "w") as f:
