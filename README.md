@@ -19,6 +19,8 @@
 - **Hard : 1**
 
 ### [&bull; GeeksForGeeks](https://github.com/SaurabhKhade/CODING-deCODING/tree/master/GeeksForGeeks)
+- **School : 0**
+- **Basic : 1**
 - **Easy : 0**
 - **Medium : 1**
 - **Hard : 0**

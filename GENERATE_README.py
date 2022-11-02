@@ -78,6 +78,8 @@ main_template = f"""<h1 align="center"> CODING deCODING </h1>
 - **Hard : {counter['CodingNinjas']['Hard']}**
 
 ### [&bull; GeeksForGeeks](https://github.com/SaurabhKhade/CODING-deCODING/tree/master/GeeksForGeeks)
+- **School : {counter['GeeksForGeeks']['School']}**
+- **Basic : {counter['GeeksForGeeks']['Basic']}**
 - **Easy : {counter['GeeksForGeeks']['Easy']}**
 - **Medium : {counter['GeeksForGeeks']['Medium']}**
 - **Hard : {counter['GeeksForGeeks']['Hard']}**
