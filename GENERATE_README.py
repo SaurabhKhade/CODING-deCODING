@@ -49,10 +49,10 @@ for dir in os.listdir("./"):
                 file += f"- [{file_name}]({link})\n"
             file += "\n"
 
+            counter[dir][diff] = len(code_files)
+            counter["totalSolved"] += len(code_files)
             if diff in ["Easy", "Medium", "Hard"]:
-                counter[dir][diff] = len(code_files)
                 counter["total"][diff] += len(code_files)
-                counter["totalSolved"] += len(code_files)
 
         with open(f"./{dir}/README.md", "w") as f:
             f.write(file)
