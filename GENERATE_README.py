@@ -19,6 +19,8 @@ counter = {
         "Hard": 0
     },
     "GeeksForGeeks": {
+        "School": 0,
+        "Basic": 0,
         "Easy": 0,
         "Medium": 0,
         "Hard": 0
@@ -34,7 +36,7 @@ counter = {
 for dir in os.listdir("./"):
     if isdir(dir) and not dir.startswith("."):
         file = starters[dir]
-        for diff in ["Easy", "Medium", "Hard"]:
+        for diff in counter[dir]:
             file += f"## {diff}\n\n"
             code_files = os.listdir(f"./{dir}/{diff}")
             if dir == "LeetCode":
@@ -47,9 +49,10 @@ for dir in os.listdir("./"):
                 file += f"- [{file_name}]({link})\n"
             file += "\n"
 
-            counter[dir][diff] = len(code_files)
-            counter["total"][diff] += len(code_files)
-            counter["totalSolved"] += len(code_files)
+            if diff in ["Easy", "Medium", "Hard"]:
+                counter[dir][diff] = len(code_files)
+                counter["total"][diff] += len(code_files)
+                counter["totalSolved"] += len(code_files)
 
         with open(f"./{dir}/README.md", "w") as f:
             f.write(file)
