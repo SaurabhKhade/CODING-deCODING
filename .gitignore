@@ -1,2 +1,4 @@
-README_bulk_update.py
 ListExtracter.js
+.pre-commit-config.yaml
+.vscode/
+GENERATE_README.py
