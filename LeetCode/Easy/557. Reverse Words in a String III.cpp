@@ -1,15 +1,14 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        string srev, word;
-        for(auto &chr:s) {
-            if(chr != ' ') word = chr + word;
-            else {
-                srev += word+" ";
-                word = "";
+        auto itr = s.begin();
+        for(auto i = s.begin(); i != s.end(); i++) {
+            if(*i == ' ') {
+                reverse(itr,i);
+                itr = i+1;
             }
         }
-        srev += word;
-        return srev;
+        reverse(itr,s.end());
+        return s;
     }
 };
