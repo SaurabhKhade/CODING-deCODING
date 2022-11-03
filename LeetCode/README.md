@@ -193,6 +193,7 @@
 - [1996. The Number of Weak Characters in the Game.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game.cpp/)
 - [2007. Find Original Array From Doubled Array.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/2007.%20Find%20Original%20Array%20From%20Doubled%20Array.cpp/)
 - [2095. Delete the Middle Node of a Linked List.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.cpp/)
+- [2131. Longest Palindrome by Concatenating Two Letter Words.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/2131.%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words.cpp/)
 - [2181. Merge Nodes in Between Zeros.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/2181.%20Merge%20Nodes%20in%20Between%20Zeros.cpp/)
 - [2265. Count Nodes Equal to Average of Subtree.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree.cpp/)
 - [2374. Node With Highest Edge Score.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/2374.%20Node%20With%20Highest%20Edge%20Score.cpp/)
