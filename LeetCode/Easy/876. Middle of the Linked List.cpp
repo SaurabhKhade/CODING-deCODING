@@ -1,16 +1,12 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        ListNode *mid = head,*p = head;
-        bool flag = false;
+        ListNode *slow=head, *fast=head;
         
-        while( p!= NULL) {
-            if(flag) {
-                mid = mid->next;
-            }
-            p = p->next;
-            flag = !flag;
+        while(fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        return mid;
+        return slow;
     }
-};  
+};
