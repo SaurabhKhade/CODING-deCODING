@@ -11,10 +11,12 @@
 
 - [Anagram.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/GeeksForGeeks/Easy/Anagram.cpp/)
 - [Missing number in array.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/GeeksForGeeks/Easy/Missing%20number%20in%20array.cpp/)
+- [Subarray with given sum.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/GeeksForGeeks/Easy/Subarray%20with%20given%20sum.cpp/)
 
 ## Medium
 
 - [Enemy.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/GeeksForGeeks/Medium/Enemy.cpp/)
+- [Kadane's Algorithm.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/GeeksForGeeks/Medium/Kadane's%20Algorithm.cpp/)
 - [Kth smallest element.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/GeeksForGeeks/Medium/Kth%20smallest%20element.cpp/)
 
 ## Hard
