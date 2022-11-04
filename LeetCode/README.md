@@ -172,6 +172,7 @@
 - [985. Sum of Even Numbers After Queries.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/985.%20Sum%20of%20Even%20Numbers%20After%20Queries.cpp/)
 - [1020. Number of Enclaves.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/1020.%20Number%20of%20Enclaves.cpp/)
 - [1091. Shortest Path in Binary Matrix.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/1091.%20Shortest%20Path%20in%20Binary%20Matrix.cpp/)
+- [1162. As Far from Land as Possible.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/1162.%20As%20Far%20from%20Land%20as%20Possible.cpp/)
 - [1239. Maximum Length of a Concatenated String with Unique Characters.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters.cpp/)
 - [1254. Number of Closed Islands.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/1254.%20Number%20of%20Closed%20Islands.cpp/)
 - [1277. Count Square Submatrices with All Ones.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones.cpp/)
