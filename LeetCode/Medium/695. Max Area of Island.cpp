@@ -1,18 +1,6 @@
 class Solution {
     int m,n;
-    vector<int> xMove = {-1,0,1,0}, yMove = {0, -1, 0, 1};
-    
-    void dfs(vector<vector<int>>& grid, int i, int j, vector<vector<int>> &visited, int &cnt) {
-        cnt++;
-        visited[i][j] = 1;
-        
-        for(int k=0; k<4; k++) {
-            int x = i + xMove[k], y = j + yMove[k];
-            if(x>=0 && x<m && y>=0 && y<n && !visited[x][y] && grid[x][y]) {
-                dfs(grid, x, y, visited, cnt);
-            }
-        }
-    }
+    vector<pair<int,int>> moves = {{-1,0},{0,-1},{1,0},{0,1}};
 public:
     int maxAreaOfIsland(vector<vector<int>>& grid) {
         m = grid.size(), n = grid[0].size();
@@ -29,5 +17,17 @@ public:
             }
         }
         return maxArea;
+    }
+    
+    void dfs(vector<vector<int>>& grid, int i, int j, vector<vector<int>> &visited, int &cnt) {
+        cnt++;
+        visited[i][j] = 1;
+        
+        for(auto [x,y]:moves) {
+            x += i, y += j;
+            if(x>=0 && x<m && y>=0 && y<n && !visited[x][y] && grid[x][y]) {
+                dfs(grid, x, y, visited, cnt);
+            }
+        }
     }
 };

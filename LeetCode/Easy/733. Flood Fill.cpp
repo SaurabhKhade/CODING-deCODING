@@ -1,28 +1,28 @@
 class Solution {
 public:
     vector<vector<int>> floodFill(vector<vector<int>>& img, int sr, int sc, int color) {
+        int m = img.size(), n = img[0].size();
         queue<pair<int,int>> q;
-        vector<vector<int>> visited(img.size(), vector<int> (img[0].size(), 0));
+        vector<vector<int>> visited(m, vector<int> (n));
         
         q.push({sr,sc});
         int old = img[sr][sc];
         img[sr][sc] = color;
         visited[sr][sc] = 1;
         
-        int xCoords[] = {-1, 0, 1, 0};
-        int yCoords[] = {0, -1, 0, 1};
+        vector<pair<int,int>> moves = {{-1,0},{0,-1},{1,0},{0,1}};
         
         while(!q.empty()) {
-            int x = q.front().first;
-            int y = q.front().second;
+            int i = q.front().first;
+            int j = q.front().second;
             q.pop();
             
-            for(int i=0; i<4; i++) {
-                int x2 = x+xCoords[i], y2 = y+yCoords[i];
-                if(x2>=0 && x2<img.size() && y2>=0 && y2<img[0].size() && !visited[x2][y2] && img[x2][y2]==old) {
-                    visited[x2][y2] = 1;
-                    img[x2][y2] = color;
-                    q.push({x2,y2});
+            for(auto [x,y]:moves) {
+                x+=i, y+=j;
+                if(x>=0 && x<m && y>=0 && y<n && !visited[x][y] && img[x][y]==old) {
+                    visited[x][y] = 1;
+                    img[x][y] = color;
+                    q.push({x,y});
                 }
             }
         }
