@@ -1,6 +1,8 @@
 ## Easy
 
+- [Count Distinct Element in Every K Size Window.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Easy/Count%20Distinct%20Element%20in%20Every%20K%20Size%20Window.cpp/)
 - [Delete Node In A Linked List.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Easy/Delete%20Node%20In%20A%20Linked%20List.cpp/)
+- [Duplicate In Array.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Easy/Duplicate%20In%20Array.cpp/)
 - [Find Duplicate in Array.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Easy/Find%20Duplicate%20in%20Array.cpp/)
 - [Flatten A Linked List.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Easy/Flatten%20A%20Linked%20List.cpp/)
 - [Intersection of Two Linked Lists.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Easy/Intersection%20of%20Two%20Linked%20Lists.cpp/)
@@ -24,7 +26,9 @@
 - [Count Inversions.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Medium/Count%20Inversions.cpp/)
 - [Count Subarrays with Given XOR.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Medium/Count%20Subarrays%20with%20Given%20XOR.cpp/)
 - [Cycle Detection in a Singly Linked List.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Medium/Cycle%20Detection%20in%20a%20Singly%20Linked%20List.cpp/)
+- [Delete Kth node From End.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Medium/Delete%20Kth%20node%20From%20End.cpp/)
 - [Find Four Elements That Sums To A Given Value.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Medium/Find%20Four%20Elements%20That%20Sums%20To%20A%20Given%20Value.cpp/)
+- [Find The Sum Of The Left Leaves.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Medium/Find%20The%20Sum%20Of%20The%20Left%20Leaves.cpp/)
 - [Linked List Cycle II.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Medium/Linked%20List%20Cycle%20II.cpp/)
 - [Longest Consecutive Sequence.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Medium/Longest%20Consecutive%20Sequence.cpp/)
 - [Merge Intervals.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/CodingNinjas/Medium/Merge%20Intervals.cpp/)
