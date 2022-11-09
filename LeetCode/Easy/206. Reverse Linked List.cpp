@@ -1,13 +1,17 @@
-class Solution {
-public:
-    ListNode* reverseList(ListNode* head) {
-        ListNode *head2 = NULL, *temp;
-        while(head != NULL) {
-            temp = new ListNode(head->val);
-            temp->next = head2;
-            head2 = temp;
-            head = head->next;
+class Solution {        
+    public:
+        ListNode* reverseList(ListNode* head) {
+            if(head==NULL || head->next==NULL) return head;
+            ListNode *first = head, *curr = head->next, *next = head->next->next; 
+            first->next = NULL;
+            while(next != NULL) {
+                curr->next = first;
+                first = curr;
+                curr = next;
+                next = next->next;
+            }
+            curr->next = first;
+            first = curr;
+            return first;
         }
-        return head2;
-    }
 };

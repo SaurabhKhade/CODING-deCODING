@@ -6,6 +6,7 @@
 
 - [1. Two Sum.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/1.%20Two%20Sum.cpp/)
 - [13. Roman to Integer.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/13.%20Roman%20to%20Integer.cpp/)
+- [21. Merge Two Sorted Lists.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/21.%20Merge%20Two%20Sorted%20Lists.cpp/)
 - [26. Remove Duplicates from Sorted Array.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp/)
 - [35. Search Insert Position.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/35.%20Search%20Insert%20Position.cpp/)
 - [94. Binary Tree Inorder Traversal.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/94.%20Binary%20Tree%20Inorder%20Traversal.cpp/)
