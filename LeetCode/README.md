@@ -126,6 +126,7 @@
 - [62. Unique Paths.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/62.%20Unique%20Paths.cpp/)
 - [64. Minimum Path Sum.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/64.%20Minimum%20Path%20Sum.cpp/)
 - [73. Set Matrix Zeroes.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/73.%20Set%20Matrix%20Zeroes.cpp/)
+- [74. Search a 2D Matrix.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/74.%20Search%20a%202D%20Matrix.cpp/)
 - [75. Sort Colors.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/75.%20Sort%20Colors.cpp/)
 - [77. Combinations.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/77.%20Combinations.cpp/)
 - [78. Subsets.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/78.%20Subsets.cpp/)
