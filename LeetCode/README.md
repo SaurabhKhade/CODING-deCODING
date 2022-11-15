@@ -146,6 +146,7 @@
 - [200. Number of Islands.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/200.%20Number%20of%20Islands.cpp/)
 - [208. Implement Trie (Prefix Tree).cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/208.%20Implement%20Trie%20(Prefix%20Tree).cpp/)
 - [211. Design Add and Search Words Data Structure.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.cpp/)
+- [222. Count Complete Tree Nodes.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/222.%20Count%20Complete%20Tree%20Nodes.cpp/)
 - [236. Lowest Common Ancestor of a Binary Tree.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.cpp/)
 - [237. Delete Node in a Linked List.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/237.%20Delete%20Node%20in%20a%20Linked%20List.cpp/)
 - [287. Find the Duplicate Number.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/287.%20Find%20the%20Duplicate%20Number.cpp/)
