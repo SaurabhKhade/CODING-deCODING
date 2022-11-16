@@ -43,6 +43,7 @@
 - [342. Power of Four.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/342.%20Power%20of%20Four.cpp/)
 - [344. Reverse String.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/344.%20Reverse%20String.cpp/)
 - [345. Reverse Vowels of a String.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/345.%20Reverse%20Vowels%20of%20a%20String.cpp/)
+- [374. Guess Number Higher or Lower.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/374.%20Guess%20Number%20Higher%20or%20Lower.cpp/)
 - [383. Ransom Note.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/383.%20Ransom%20Note.cpp/)
 - [387. First Unique Character in a String.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/387.%20First%20Unique%20Character%20in%20a%20String.cpp/)
 - [404. Sum of Left Leaves.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/404.%20Sum%20of%20Left%20Leaves.cpp/)

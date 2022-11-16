@@ -4,10 +4,10 @@
 
 ## For easier navigation and code searching, visit my [website](https://coding-decoding.vercel.app/)
 
-<img src='https://quickchart.io/chart?c={type:%27doughnut%27,data:{labels:[%27Easy%27,%27Medium%27,%27Hard%27],datasets:[{data:[111,157,11]}]},options:{plugins:{doughnutlabel:{labels:[{text:%27283%27,color:%27red%27,font:{size:40,weight:%27bold%27}},{text:%27total%27}]},datalabels:{display:true,color:%27white%27,backgroundColor:%27black%27,borderRadius:4, font:{size:18,weight:%27bold%27}}}}}' width='450'/>
+<img src='https://quickchart.io/chart?c={type:%27doughnut%27,data:{labels:[%27Easy%27,%27Medium%27,%27Hard%27],datasets:[{data:[112,157,11]}]},options:{plugins:{doughnutlabel:{labels:[{text:%27284%27,color:%27red%27,font:{size:40,weight:%27bold%27}},{text:%27total%27}]},datalabels:{display:true,color:%27white%27,backgroundColor:%27black%27,borderRadius:4, font:{size:18,weight:%27bold%27}}}}}' width='450'/>
 
 ### [&bull; Leetcode](https://github.com/SaurabhKhade/CODING-deCODING/tree/master/LeetCode)
-- **Easy : 90**
+- **Easy : 91**
 - **Medium : 133**
 - **Hard : 10**
 
