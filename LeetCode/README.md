@@ -66,6 +66,7 @@
 - [771. Jewels and Stones.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/771.%20Jewels%20and%20Stones.cpp/)
 - [804. Unique Morse Code Words.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/804.%20Unique%20Morse%20Code%20Words.cpp/)
 - [821. Shortest Distance to a Character.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/821.%20Shortest%20Distance%20to%20a%20Character.cpp/)
+- [844. Backspace String Compare.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/844.%20Backspace%20String%20Compare.cpp/)
 - [876. Middle of the Linked List.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/876.%20Middle%20of%20the%20Linked%20List.cpp/)
 - [977. Squares of a Sorted Array.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/977.%20Squares%20of%20a%20Sorted%20Array.cpp/)
 - [997. Find the Town Judge.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/997.%20Find%20the%20Town%20Judge.cpp/)
