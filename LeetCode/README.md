@@ -35,6 +35,7 @@
 - [235. Lowest Common Ancestor of a Binary Search Tree.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.cpp/)
 - [242. Valid Anagram.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/242.%20Valid%20Anagram.cpp/)
 - [257. Binary Tree Paths.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/257.%20Binary%20Tree%20Paths.cpp/)
+- [263. Ugly Number.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/263.%20Ugly%20Number.cpp/)
 - [278. First Bad Version.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/278.%20First%20Bad%20Version.cpp/)
 - [283. Move Zeroes.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/283.%20Move%20Zeroes.cpp/)
 - [290. Word Pattern.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/290.%20Word%20Pattern.cpp/)
