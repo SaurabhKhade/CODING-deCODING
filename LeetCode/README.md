@@ -163,6 +163,7 @@
 - [322. Coin Change.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/322.%20Coin%20Change.cpp/)
 - [377. Combination Sum IV.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/377.%20Combination%20Sum%20IV.cpp/)
 - [378. Kth Smallest Element in a Sorted Matrix.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.cpp/)
+- [380. Insert Delete GetRandom O(1).cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/380.%20Insert%20Delete%20GetRandom%20O(1).cpp/)
 - [384. Shuffle an Array.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/384.%20Shuffle%20an%20Array.cpp/)
 - [393. UTF-8 Validation.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/393.%20UTF-8%20Validation.cpp/)
 - [417. Pacific Atlantic Water Flow.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Medium/417.%20Pacific%20Atlantic%20Water%20Flow.cpp/)
