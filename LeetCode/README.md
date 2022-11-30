@@ -73,6 +73,7 @@
 - [997. Find the Town Judge.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/997.%20Find%20the%20Town%20Judge.cpp/)
 - [1047. Remove All Adjacent Duplicates In String.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp/)
 - [1137. N-th Tribonacci Number.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/1137.%20N-th%20Tribonacci%20Number.cpp/)
+- [1207. Unique Number of Occurrences.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/1207.%20Unique%20Number%20of%20Occurrences.cpp/)
 - [1290. Convert Binary Number in a Linked List to Integer.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.cpp/)
 - [1323. Maximum 69 Number.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/1323.%20Maximum%2069%20Number.cpp/)
 - [1346. Check If N and Its Double Exist.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.cpp/)
