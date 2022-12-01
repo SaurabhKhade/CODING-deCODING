@@ -83,6 +83,7 @@
 - [1544. Make The String Great.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/1544.%20Make%20The%20String%20Great.cpp/)
 - [1572. Matrix Diagonal Sum.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/1572.%20Matrix%20Diagonal%20Sum.cpp/)
 - [1662. Check If Two String Arrays are Equivalent.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.cpp/)
+- [1704. Determine if String Halves Are Alike.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/1704.%20Determine%20if%20String%20Halves%20Are%20Alike.cpp/)
 - [1710. Maximum Units on a Truck.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/1710.%20Maximum%20Units%20on%20a%20Truck.cpp/)
 - [1791. Find Center of Star Graph.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/1791.%20Find%20Center%20of%20Star%20Graph.cpp/)
 - [1929. Concatenation of Array.cpp](https://github.com/SaurabhKhade/CODING-deCODING/blob/master/LeetCode/Easy/1929.%20Concatenation%20of%20Array.cpp/)
